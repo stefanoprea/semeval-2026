@@ -2,7 +2,6 @@
 
 ## Team members:
   * Lacrimioara Toma Oprea
-  * Maria Istrate
   * Stefan Oprea
 
 ## Semeval tasks 1 and 4
